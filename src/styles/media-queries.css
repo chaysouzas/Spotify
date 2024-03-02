@@ -1,0 +1,26 @@
+@media screen and (max-width:1015px){
+    
+    .offer__list-item{
+        grid-template-columns: 1fr 1fr; /*quantidade de colunas*/
+        grid-gap:16px;
+        gap:16px;
+        margin-bottom: 16px;
+    }
+    
+
+
+}
+
+@media screen and (max-width: 820px){
+    .header__navigation {
+      /* Estilos para o media query */
+      flex-direction: column; /* Altera a direção dos elementos para coluna */
+      justify-content: center; /* Centraliza verticalmente os elementos */
+      align-items: center; /* Centraliza horizontalmente os elementos */
+      padding: 8px; /* Reduz o padding */
+      margin: 5px; /* Reduz a margem */
+      border-radius: 4px; /* Reduz o raio do border-radius */
+      background-color: #121212; /* Mantém a cor de fundo */
+    }
+  }
+
