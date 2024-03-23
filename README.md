@@ -1,5 +1,8 @@
 # Clone do Spotify - Projeto Imersão Front-end ALURA
 
+[Clique para visualizar ](https://chaysouzas.github.io/Spotify/)
+
+***
 
 Este projeto é um clone do Spotify, desenvolvido durante o curso de Imersão Front-end da ALURA. 
 
